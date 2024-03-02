@@ -1,4 +1,4 @@
-![logo](https://github.com/shrashti2004/shrashti2004/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shrashti Bhumarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="coding"width="400" src="https://static.swissdevjobs.ch/pictures/software-developer-germany.svg"
