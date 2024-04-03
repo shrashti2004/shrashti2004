@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shrashti_11" target="blank"><img src="https://img.shields.io/twitter/follow/shrashti_11?logo=twitter&style=for-the-badge" alt="shrashti_11" /></a> </p>
 
-- 🔭 I’m currently working on **Breast Cancer Prediction System**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I have completed **WEATHER WEB**
 
 - 💬 Ask me about **C,C++,HTML,CSS, JAVASCRIPT**
 
